@@ -1,0 +1,2 @@
+4. Compile: javac -cp .:$MPJ_HOME/lib/mpj.jar HelloWorld.java
+5. Execute: mpjrun.sh -np 4 HelloWorld
